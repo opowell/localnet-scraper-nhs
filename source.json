@@ -1,0 +1,9 @@
+{
+  "scrapers": [
+    {
+      "name": "NHS",
+      "urlPattern": "www.nhs.uk"
+    }
+  ],
+  "file": "nhs.js"
+}
